@@ -23,7 +23,7 @@ assignees: ''
 ![](https://?)
 
 # Recommended labels
-<!-- See https://github.com/DaedalusX64-VitaGL-Compatibility/compatibility/labels -->
+<!-- See https://github.com/Rinnegatamante/flycast-vita-Compatibility/labels -->
 - A?
 - B?
 - C?
